@@ -38,10 +38,10 @@ And register them to your AWS Account by using Multi-Account-Registration-enable
 
 replace definitions to your own in main.c
 
-#define EXAMPLE_WIFI_SSID ""
-#define EXAMPLE_WIFI_PASS "" 
+#define EXAMPLE_WIFI_SSID ""  
+#define EXAMPLE_WIFI_PASS ""  
 
-char HostAddress[255] = "XXX.amazonaws.com";  
+char HostAddress[255] = "XXX.amazonaws.com";    
 
 # Run this project
 
